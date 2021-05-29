@@ -1,7 +1,5 @@
 <h1>Stripe Notifications for Discord</h1>
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/eggins/stripe-to-discord)
-
 ## Install
 
 ```sh
